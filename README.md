@@ -1,14 +1,18 @@
-## Project info
+# Informações do projeto
 
-# Step 1: Clone the repository using the project's Git URL.
+## Passo 1: Clone o repositório usando a URL do Git do projeto.
+```
 git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
+```
+## Passo 2: Navegue até o diretório do projeto.
+```
 cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
+```
+## Passo 3: Instale as dependências necessárias.
+```
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```
+## Passo 4: Inicie o servidor.
+```
 npm run dev
 ```
